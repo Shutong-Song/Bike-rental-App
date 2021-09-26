@@ -33,9 +33,9 @@
     ![dropdown](img/bike13e.png)
 
 4. shortest routes between two stations
-    - support selection of two stations (start and end)
-    - support calculating shortest routes between them. <br/>
-    ![shortestPath][img/bike18.png]
+    - support selection of two stations (start and end).
+    - support calculating shortest routes between them  
+    ![shortRoutes](img/bike18.png)
 
 ### A short demo
 ![BikeDemo](img/bluebike.gif)
