@@ -26,7 +26,7 @@
 ![cluster2](img/bike03.png)
 
 2. marker hover feature
-    - when hover on the bike station maker, show the station rental traffics
+    - when hover on the bike station maker, show the rental traffic on each hovered station
     ![hoverStation](img/bike06.png)
 
 3. stations inside a radius
