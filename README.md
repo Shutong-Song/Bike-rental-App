@@ -1,5 +1,9 @@
 # Bike rental application using Python Dash and Dash-leaflet
 
+
+### A short demo
+![BikeDemo](img/bluebike.gif)
+
 ### how to use
 1. run the Dash_bike_App.py file and it will show a localhost ip
 2. input the ip to the browser which will show the App on you local web browser
@@ -37,5 +41,3 @@
     - support calculating shortest routes between them  
     ![shortRoutes](img/bike18.png)
 
-### A short demo
-![BikeDemo](img/bluebike.gif)
